@@ -1,0 +1,100 @@
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.csproj.AssemblyReference.cache
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.AssemblyInfoInputs.cache
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.AssemblyInfo.cs
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.csproj.CoreCompileInputs.cache
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/appsettings.json
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.exe
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.deps.json
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.runtimeconfig.json
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.dll
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.pdb
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.SmartSchedulerApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.build.SmartSchedulerApi.props
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SmartSchedulerApi.props
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SmartSchedulerApi.props
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/scopedcss/bundle/SmartSchedulerApi.styles.css
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSch.42C3D174.Up2Date
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.dll
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/refint/SmartSchedulerApi.dll
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.pdb
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.genruntimeconfig.cache
+C:/Users/paras/OneDrive/Desktop/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/ref/SmartSchedulerApi.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/appsettings.json
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.deps.json
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.runtimeconfig.json
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.pdb
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.csproj.AssemblyReference.cache
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.AssemblyInfoInputs.cache
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.AssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.csproj.CoreCompileInputs.cache
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.SmartSchedulerApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.build.SmartSchedulerApi.props
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SmartSchedulerApi.props
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SmartSchedulerApi.props
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/scopedcss/bundle/SmartSchedulerApi.styles.css
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSch.42C3D174.Up2Date
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/refint/SmartSchedulerApi.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.pdb
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.genruntimeconfig.cache
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/ref/SmartSchedulerApi.dll
+/Users/paraggupta/Downloads/pathlock3/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.sourcelink.json
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/appsettings.json
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.deps.json
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.runtimeconfig.json
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.dll
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/SmartSchedulerApi.pdb
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.csproj.AssemblyReference.cache
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.AssemblyInfoInputs.cache
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.AssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.csproj.CoreCompileInputs.cache
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.SmartSchedulerApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.build.SmartSchedulerApi.props
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SmartSchedulerApi.props
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SmartSchedulerApi.props
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/scopedcss/bundle/SmartSchedulerApi.styles.css
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSch.42C3D174.Up2Date
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.dll
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/refint/SmartSchedulerApi.dll
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.pdb
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/SmartSchedulerApi.genruntimeconfig.cache
+/Users/paraggupta/Downloads/pathlock3 copy/SmartSchedulerApi/obj/Debug/net8.0/ref/SmartSchedulerApi.dll
