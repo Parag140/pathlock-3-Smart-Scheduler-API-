@@ -128,4 +128,8 @@ POST /api/v1/projects/{projectId}/schedule - Generate optimal task schedule
 
 </p>
 
-  
+  3. localstorage data so we cant lost on reload 
+<p align="center">
+ <img width="2880" height="1634" alt="image" src="https://github.com/user-attachments/assets/328e65ac-be1e-4671-8bd9-ba08a50e2ee6" />
+
+</p>
