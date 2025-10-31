@@ -45,7 +45,7 @@ Swagger UI: http://localhost:5298/swagger
 
     ```bash
     npm install
-    npm run dev
+    vite
 
 3. Access the application:
 
