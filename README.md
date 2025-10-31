@@ -1,17 +1,19 @@
 ## SmartSchedulerApi/ # Backend .NET API
-├── Controllers/
-│ └── ScheduleController.cs # API endpoint for scheduling
-├── Services/
-│ └── TopologicalSort.cs # Core scheduling algorithm
-├── Models.cs # Data models (TaskItem, ScheduleRequest/Response)
-└── Program.cs # Application configuration
-
-smartschedulerfrontend/ # Frontend React App
-├── src/
-│ ├── App.tsx # Main application component
-│ ├── TaskInputForm.tsx # Dynamic task input form
-│ └── main.tsx # React entry point
-
+         
+         ```
+         ├── Controllers/
+         │ └── ScheduleController.cs # API endpoint for scheduling
+         ├── Services/
+         │ └── TopologicalSort.cs # Core scheduling algorithm
+         ├── Models.cs # Data models (TaskItem, ScheduleRequest/Response)
+         └── Program.cs # Application configuration
+         
+         smartschedulerfrontend/ # Frontend React App
+         ├── src/
+         │ ├── App.tsx # Main application component
+         │ ├── TaskInputForm.tsx # Dynamic task input form
+         │ └── main.tsx # React entry point
+         
 
 ## 🚀 Quick Start
 
