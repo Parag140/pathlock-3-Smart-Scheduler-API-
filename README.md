@@ -112,4 +112,20 @@ POST /api/v1/projects/{projectId}/schedule - Generate optimal task schedule
 2. Unknown Task References - Validates all dependency relationships
 
 3. Empty Task Lists - Handles edge cases gracefully
+
+
+
+
+---
+## UI SCREENSHOTS
+1. Home page 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9173f34d-2ed7-408d-9017-3a80cc65967b" alt="Project Screenshot" width="600">
+</p>
+2. working of scheduler after adding tasks
+<p align="center">
+ <img width="710" height="1408" alt="image" src="https://github.com/user-attachments/assets/4f9e3422-ea55-4a01-83e5-c9ae5dace197" />
+
+</p>
+
   
